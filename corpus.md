@@ -17,6 +17,7 @@
 - [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/) :star:
 - [FiveThirtyEight开放可视化数据](https://www.weibo.com/fly51fly?is_all=1#_rnd1518270026401)
 - [Hard Drive Data and Stats](https://www.backblaze.com/b2/hard-drive-test-data.html)
+- [Open Datasets](https://skymind.ai/wiki/open-datasets)
 - [Pixiv Dataset Overview](https://github.com/jerryli27/pixiv_dataset)
 - [SLAC: A Sparsely Labeled ACtions Dataset from MIT and Facebook](http://slac.csail.mit.edu/)
 - [Some good papers I like](https://github.com/hoangcuong2011/Good-Papers)
@@ -46,6 +47,7 @@
 - [MegaFace Dataset](http://megaface.cs.washington.edu/dataset/download.html)
 - [MSRA-CFW: Data Set of Celebrity Faces on the Web](https://www.microsoft.com/en-us/research/project/msra-cfw-data-set-of-celebrity-faces-on-the-web/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fmsra-cfw%2Fcasia)
 - [Netizen-Style Commenting on Fashion Photos – Dataset and Diversity Measures](https://mashyu.github.io/NSC/)
+- [SCUT HEAD is a large-scale head detection dataset](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release)
 - [Street View Image, Pose, and 3D Cities Dataset](https://github.com/amir32002/3D_Street_View)
 - [VGG Face Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face/)
 - [VGGFace2 Dataset](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
@@ -84,6 +86,7 @@
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 - [Course materials for Text as Data Lab](https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018)
 - [Datasets of Annotated Semantic Relationships](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
+- [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets)
 - [Japanese Word Similarity Dataset](https://github.com/tmu-nlp/JapaneseWordSimilarityDataset)
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/)

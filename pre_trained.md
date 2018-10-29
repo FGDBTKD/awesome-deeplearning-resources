@@ -14,6 +14,7 @@
 * [GloVe: Global Vectors for Word Representation](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors)
 * [High level network definitions with pre-trained weights in TensorFlow](https://github.com/taehoonlee/tensornets)
 * [Model of the deep residual network used for cifar10](https://github.com/apark263/cfmz)
+* [Overview of OpenVINO™ Toolkit Pre-Trained Models](https://github.com/opencv/open_model_zoo/blob/2018/intel_models/index.md)
 * [Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc.](https://github.com/Cadene/pretrained-models.pytorch)
 * [Pre-Trained Doc2Vec Models](https://github.com/jhlau/doc2vec)
 * [Pre-trained Show and Tell: A Neural Image Caption Generator](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model)
@@ -21,6 +22,7 @@
 * [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors) :star:
 * [ResNet in TensorFlow Pretrain Model](https://github.com/ry/tensorflow-resnet)
 * [Single Image 3D Interpreter Network](https://github.com/jiajunwu/3dinn)
+* [Segmentation models Zoo](https://github.com/qubvel/segmentation_models)
 * [Source code and pretrained model for webcam pix2pix](https://github.com/memo/webcam-pix2pix-tensorflow)
 * [TensorFlow VGG-16 pre-trained model](https://github.com/ry/tensorflow-vgg16)
 * [The pretrained models trained on Moments in Time Dataset](https://github.com/metalbubble/moments_models)

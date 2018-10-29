@@ -8,10 +8,12 @@
 - Calculating the similarity between words and sentences using a lexical database and corpus statistics. [`arxiv`](https://arxiv.org/abs/1802.05667)
 - Chinese Text in the Wild. [`arxiv`](https://arxiv.org/abs/1803.00085)
 - Constituency Parsing with a Self-Attentive Encoder. [`arxiv`](https://arxiv.org/abs/1805.01052) [`code`](https://github.com/nikitakit/self-attentive-parser)
+- Embedding Logical Queries on Knowledge Graphs. [`arxiv`](https://arxiv.org/abs/1806.01445) [`code`](https://github.com/williamleif/graphqembed)
 - Extracting Action Sequences from Texts Based on Deep Reinforcement Learning. [`arxiv`](https://arxiv.org/abs/1803.02632)
 - Generating Wikipedia by Summarizing Long Sequences. [`arxiv`](https://arxiv.org/abs/1801.10198) :star:
 - How Images Inspire Poems: Generating Classical Chinese Poetry from Images with Memory Networks. [`arxiv`](https://arxiv.org/abs/1803.02994)
 - IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection. [`arxiv`](https://arxiv.org/abs/1805.01167)
+- Linguistically-Informed Self-Attention for Semantic Role Labeling. [`arxiv`](https://arxiv.org/abs/1804.08199) :star:
 - Neural Relational Inference for Interacting Systems. [`arxiv`](https://arxiv.org/abs/1802.04687) [`code`](https://github.com/ethanfetaya/nri)
 - Neural Text Generation: Past, Present and Beyond. [`arxiv`](https://arxiv.org/abs/1803.07133)
 - PixelLink: Detecting Scene Text via Instance Segmentation. [`arxiv`](https://arxiv.org/abs/1801.01315) [`code`](https://github.com/ZJULearning/pixel_link)
@@ -37,6 +39,7 @@
 - From Word to Sense Embeddings: A Survey on Vector Representations of Meaning. [`arxiv`](https://arxiv.org/abs/1805.04032)
 - Learning Domain-Sensitive and Sentiment-Aware Word Embeddings. [`arxiv`](https://arxiv.org/abs/1805.03801)
 - Learning Word Embeddings for Low-resource Languages by PU Learning. [`arxiv`](https://arxiv.org/abs/1805.03366)
+- Poincaré GloVe: Hyperbolic Word Embeddings. [`arxiv`](https://arxiv.org/abs/1810.06546)
 - Query2Vec: NLP Meets Databases for Generalized Workload Analytics. [`arxiv`](https://arxiv.org/abs/1801.05613)
 - Semantic projection: recovering human knowledge of multiple, distinct object features from word embeddings. [`arxiv`](https://arxiv.org/abs/1802.01241)
 - Speech2Vec: A Sequence-to-Sequence Framework for Learning Word Embeddings from Speech. [`arxiv`](https://arxiv.org/abs/1803.08976)
@@ -69,6 +72,8 @@
 - Finding ReMO (Related Memory Object): A Simple Neural Architecture for Text based Reasoning. [`arxiv`](https://arxiv.org/abs/1801.08459) [`code`](https://github.com/juung/RMN)
 - The Natural Language Decathlon: Multitask Learning as Question Answering. [`arxiv`](https://arxiv.org/abs/1806.08730)
 - Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge. [`arxiv`](https://arxiv.org/abs/1803.05457) [`code`](https://github.com/allenai/arc-solvers)
+- TVQA: Localized, Compositional Video Question Answering. [`arxiv`](https://arxiv.org/abs/1809.01696)
+- Visual Question Generation as Dual Task of Visual Question Answering. [`url`](http://cvboy.com/publication/cvpr2018_iqan/) [`code`](https://github.com/yikang-li/iQAN)
 
 ### NER
 
@@ -81,15 +86,18 @@
 - Phrase-Based & Neural Unsupervised Machine Translation. [`arxiv`](https://arxiv.org/abs/1804.07755)
 - Self-Attention with Relative Position Representations. [`arxiv`](https://arxiv.org/abs/1803.02155)
 
+
 ### Recommender Systems
 
 - Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba. [`arxiv`](https://arxiv.org/abs/1803.02349)
 - DKN: Deep Knowledge-Aware Network for News Recommendation. [`arxiv`](https://arxiv.org/abs/1801.08284)
 - Explainable Recommendation: A Survey and New Perspectives. [`arxiv`](https://arxiv.org/abs/1804.11192)
+- FashionNet: Personalized Outfit Recommendation with Deep Neural Network. [`arxiv`](https://arxiv.org/abs/1810.02443)
 - Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [`arxiv`](https://arxiv.org/abs/1806.01973)
 - Learning Tree-based Deep Model for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.02294)
 - MARS: Memory Attention-Aware Recommender System. [`arxiv`](https://arxiv.org/abs/1805.07037)
 - Offline A/B testing for Recommender Systems. [`arxiv`](https://arxiv.org/abs/1801.07030)
+- Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System. [`arxiv`](https://arxiv.org/abs/1809.07428) [`code`](https://github.com/graytowne/rank_distill)
 - Sequence-Aware Recommender Systems. [`arxiv`](https://arxiv.org/abs/1802.08452)
 
 ### Sentiment Analysis

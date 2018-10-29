@@ -4,7 +4,9 @@
 - [188 examples of artificial intelligence in action](https://poo.ai/)
 - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision and Image Processing](https://github.com/JackieTseng/conference_call_for_paper)
 - [A collection of AWESOME things about domian adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
+- [A curated collection of places where you can learn robotics, algorithms, and other useful tools for aspiring robotics software engineers.](https://github.com/mithi/robotics-coursework)
 - [A curated list of automated machine learning papers, articles, tutorials, slides and projects](https://github.com/hibayesian/awesome-automl-papers) :star:
+- [A curated list of awesome anomaly detection resources](https://github.com/hoya012/awesome-anomaly-detection)
 - [A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision) :star:
 - [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 - [A curated list of awesome places to learn and/or practice algorithms.](https://github.com/tayllan/awesome-algorithms)
@@ -41,6 +43,8 @@
 - [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
+- [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
+- [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 - [Awesome Machine Learning Projects](https://ml-showcase.com/)
@@ -75,6 +79,7 @@
 - [Deep Learning for Recommendation Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 - [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Deep Learning Papers Translation](https://github.com/SnailTyan/deep-learning-papers-translation)
 - [Deep Learning Processor List](https://zhuanlan.zhihu.com/p/28406226)
 - [Deep Learning Toolbox](https://github.com/dmarnerides/dlt)
 - [Enumerate diverse machine learning training tricks.](https://github.com/Conchylicultor/Deep-Learning-Tricks)
@@ -88,11 +93,14 @@
 - [Machine Learning Videos](https://github.com/dustinvtran/ml-videos)
 - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Must-read papers on NRL/NE.](https://github.com/thunlp/NRLpapers)
+- [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Notes/links on math and science, including statistics, bayes, cmpsc, quant trading, machine learning, etc](https://github.com/melling/MathAndScienceNotes)
+- [OCR Resources](https://github.com/ZumingHuang/awesome-ocr-resources)
 - [Open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla) :star:
 - [Over 7 million published research papers in Computer Science and Neuroscience.](http://labs.semanticscholar.org/corpus/)
 - [Paper list of multi-agent reinforcement learning (MARL)](https://github.com/LantaoYu/MARL-Papers)
+- [Papers with code](https://github.com/zziz/pwc) :star:
 - [Private machine learning progress](https://github.com/OpenMined/awesome-ai-privacy)
 - [Really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 - [Really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation)
@@ -120,3 +128,4 @@
 - [图像文本位置感知与识别的论文资源汇总](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md)
 - [深度学习进行目标识别的资源列表](http://www.thinkface.cn/thread-4434-1-1.html)
 - [文本摘要资源列表](https://github.com/mathsyouth/awesome-text-summarization)
+- [计算机视觉相关论文整理、翻译、记录、分享](https://github.com/yizt/cv-papers) :star:
